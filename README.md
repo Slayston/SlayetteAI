@@ -14,5 +14,5 @@ An on chain DnD assistant!
 .
 ...........
 ........
-..
+..2
 ..
