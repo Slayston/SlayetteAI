@@ -3,11 +3,11 @@
 ## Project Documentation
 
 ### Description
-SlayetteAI is an innovative AI solution designed to ... [Add more detailed project description here].
+An on chain DnD assistant!
 
 ### Features
 - Feature 1: Going to do some stuff.
-- Feature 2: [Explain feature]
+- Feature 2: Tracks cryp
 - Feature 3: [Explain feature]
 
 ### Installation Instructions
