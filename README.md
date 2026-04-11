@@ -11,8 +11,7 @@ An on chain DnD assistant!
 - Feature 3: Offers suggestions and can create art for the campaign.
 
 ### Installation Instructions
-
-............
+.
 ...........
 ........
 ..
