@@ -6,7 +6,7 @@
 SlayetteAI is an innovative AI solution designed to ... [Add more detailed project description here].
 
 ### Features
-- Feature 1: [Explain feature]
+- Feature 1: Going to do some stuff.
 - Feature 2: [Explain feature]
 - Feature 3: [Explain feature]
 
