@@ -6,7 +6,7 @@
 An on chain DnD assistant!
 
 ### Features
-- Feature 1: Going to do some stuff.
+- Feature 1: Helps you build a campaign.
 - Feature 2: Tracks cryp
 - Feature 3: [Explain feature]
 
