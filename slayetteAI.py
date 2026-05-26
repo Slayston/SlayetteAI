@@ -12,3 +12,4 @@ if __name__ == "__main__":
     agent = AIAgent()
     user_input = input("Enter your input: ")
     print(agent.respond(user_input))
+edit
